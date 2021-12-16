@@ -12,6 +12,7 @@ import 'package:package_info_plus/package_info_plus.dart';
 // Project imports:
 import 'package:app_version/src/loading.dart';
 
+/// This widget displays the version information of an application and checks for updates.
 class AppVersion extends StatelessWidget {
   const AppVersion({Key? key}) : super(key: key);
 

@@ -5,6 +5,7 @@
 // Flutter imports:
 import 'package:flutter/material.dart';
 
+/// This is a widget that represents the loading process.
 class Loading extends StatelessWidget {
   const Loading({Key? key}) : super(key: key);
 

@@ -1,17 +1,16 @@
 name: app_version
 description: This is a Flutter widget that checks and displays the version status of application and you can easily guide user to update your app.
-version: 0.0.1
+version: 0.0.2
 homepage: https://github.com/myConsciousness/app-version
 
 environment:
-  sdk: ">=2.15.0 <3.0.0"
+  sdk: ">=2.12.0 <3.0.0"
 
 dependencies:
   flutter:
     sdk: flutter
   new_version: ^0.2.3
   package_info_plus: ^1.3.0
-  universal_io: ^2.0.4
 
 dev_dependencies:
   flutter_test:
