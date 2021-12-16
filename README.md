@@ -71,7 +71,7 @@ This widget shows app information and about new version.
 
 By tapping this widget, you can display a dialog that prompts user to update. This dialog will only appear if an update is available, and the release notes for the new version will be displayed in the center of the dialog. The user can choose to update now or not, and even if they skip it, they can tap this widget again to display the same dialog.
 
-<img width="272" alt="スクリーンショット 2021-12-16 9 54 21" src="https://user-images.githubusercontent.com/13072231/146288142-282f9896-32f2-44f4-a924-b69494baa44b.png">
+<img width="270" alt="スクリーンショット 2021-12-16 23 44 22" src="https://user-images.githubusercontent.com/13072231/146393060-bdbaca3b-7a82-406a-b702-0fb3387ffdef.png">
 
 #### 1.1.4.2. When app version is the latest
 
