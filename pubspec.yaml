@@ -1,5 +1,5 @@
 name: app_version
-description: This is a Flutter widget that displays the version status of apps and can easily guide user to update your app.
+description: This is a Flutter widget that checks and displays the version status of application and you can easily guide user to update your app.
 version: 0.0.1
 homepage: https://github.com/myConsciousness/app-version
 
